@@ -9,9 +9,9 @@ const Footer = () => {
           <div className="row d-flex align-items-center">
             <div className="col-lg-6">
               <div className="footer__newsletter__content column__space">
-                <h3>Subscribe for updates</h3>
+                <h3>S'abonner aux mises à jour</h3>
                 <p>
-                  Stay on top of the latest blog posts, news and announcements
+                Restez au courant des derniers articles de blog, des nouvelles et des annonces
                 </p>
               </div>
             </div>
@@ -29,7 +29,7 @@ const Footer = () => {
                       />
                     </div>
                     <button type="submit" className="button button--effect">
-                      Subscribe
+                    S'abonner
                     </button>
                   </div>
                 </form>
@@ -43,14 +43,13 @@ const Footer = () => {
               <div className="footer__intro">
                 <Link to="/">
                   <img
-                    src="assets/images/logo-light.png"
+                    src="assets/images/logo.png"
                     alt="Propio"
                     className="logo"
                   />
                 </Link>
                 <p>
-                  Propio is a platform offering anyone the ability to invest and
-                  potentially earn money from property at the click of a button
+                Propio est une plateforme qui offre à chacun la possibilité d'investir et de gagner de l'argent grâce à l'immobilier en cliquant sur un bouton.
                 </p>
                 <div className="social">
                   <Link to="/javascript:void(0)">

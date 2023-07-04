@@ -18,7 +18,7 @@ const Head = () => {
                 to={"/registration"}
                 className="button button--effect d-none d-sm-block"
               >
-                Join Now <i className="fa-solid fa-arrow-right-long" />
+                Rejoignez-nous <i className="fa-solid fa-arrow-right-long" />
               </Link>
             </div>
             <button

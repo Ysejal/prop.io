@@ -9,7 +9,7 @@ const Featured = () => {
           <div className="title__with__cta">
             <div className="row d-flex align-items-center">
               <div className="col-lg-8">
-                <h2>Featured Properties</h2>
+                <h2>Propriétés à la une</h2>
               </div>
               <div className="col-lg-4">
                 <div className="text-start text-lg-end">
@@ -17,7 +17,7 @@ const Featured = () => {
                     to="/properties"
                     className="button button--secondary button--effect"
                   >
-                    Browse All Properties
+                    Tous les biens
                   </Link>
                 </div>
               </div>
@@ -36,10 +36,9 @@ const Featured = () => {
                     </Link>
                   </div>
                   <div className="property__grid__single__inner">
-                    <h4>Los Angeles</h4>
+                    <h4>Paris</h4>
                     <p className="sub__info">
-                      <i className="fa-solid fa-location-dot" /> 8706 Herrick
-                      Ave, Los Angeles
+                      <i className="fa-solid fa-location-dot" /> Paris Paris Paris
                     </p>
                     <div className="progress__type">
                       <div className="progress">
@@ -53,12 +52,12 @@ const Featured = () => {
                       </div>
                       <p className="project__has">
                         <span className="project__has__investors">
-                          159 Investors{" "}
+                          159 Investisseurs{" "}
                         </span>
                         |
                         <span className="project__has__investors__amount">
                           {" "}
-                          ₦ 1,94,196
+                          $ 1,94,196
                         </span>
                         <span className="project__has__investors__percent">
                           {" "}
@@ -68,18 +67,18 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Annual Return</p>
+                        <p>Rapport annuel</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
-                        <p>Property Type</p>
-                        <h6>Commercial</h6>
+                        <p>Type de propriété</p>
+                        <h6>Commerce</h6>
                       </div>
                     </div>
                     <div className="invest__cta__wrapper">
                       <div className="countdown__wrapper">
                         <p className="secondary">
-                          <i className="fa-solid fa-clock" /> Left to invest
+                          <i className="fa-solid fa-clock" /> temps restant
                         </p>
                         <div className="countdown">
                           <h5>
@@ -104,7 +103,7 @@ const Featured = () => {
                           to="property-details"
                           className="button button--effect"
                         >
-                          Invest Now
+                          Investir
                         </Link>
                       </div>
                     </div>
@@ -122,10 +121,9 @@ const Featured = () => {
                     </Link>
                   </div>
                   <div className="property__grid__single__inner">
-                    <h4>San Francisco, CA</h4>
+                    <h4>Paris</h4>
                     <p className="sub__info">
-                      <i className="fa-solid fa-location-dot" /> 3335 21 St, San
-                      Francisco
+                      <i className="fa-solid fa-location-dot" /> Paris Paris Paris
                     </p>
                     <div className="progress__type">
                       <div className="progress">
@@ -139,12 +137,12 @@ const Featured = () => {
                       </div>
                       <p className="project__has">
                         <span className="project__has__investors">
-                          159 Investors{" "}
+                          159 Investisserus{" "}
                         </span>
                         |
                         <span className="project__has__investors__amount">
                           {" "}
-                          ₦ 1,94,196
+                          $ 1,94,196
                         </span>
                         <span className="project__has__investors__percent">
                           {" "}
@@ -154,18 +152,19 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Annual Return</p>
+                        <p>Rapport annuel</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
-                        <p>Property Type</p>
-                        <h6>Commercial</h6>
+                        <p>Type de propriété</p>
+                        <h6>Commerce</h6>
                       </div>
                     </div>
                     <div className="invest__cta__wrapper">
                       <div className="countdown__wrapper">
                         <p className="secondary">
-                          <i className="fa-solid fa-clock" /> Left to invest
+                          <i className="fa-solid fa-clock" /> temps restant
+
                         </p>
                         <div className="countdown">
                           <h5>
@@ -190,7 +189,7 @@ const Featured = () => {
                           to="property-details"
                           className="button button--effect"
                         >
-                          Invest Now
+                          Investir
                         </Link>
                       </div>
                     </div>
@@ -225,12 +224,12 @@ const Featured = () => {
                       </div>
                       <p className="project__has">
                         <span className="project__has__investors">
-                          159 Investors{" "}
+                          159 Investisseur{" "}
                         </span>
                         |
                         <span className="project__has__investors__amount">
                           {" "}
-                          ₦ 1,94,196
+                          $ 1,94,196
                         </span>
                         <span className="project__has__investors__percent">
                           {" "}
@@ -240,18 +239,18 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Annual Return</p>
+                        <p>Rapport annuel</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
-                        <p>Property Type</p>
-                        <h6>Commercial</h6>
+                        <p>Type de propriété</p>
+                        <h6>Commerce</h6>
                       </div>
                     </div>
                     <div className="invest__cta__wrapper">
                       <div className="countdown__wrapper">
                         <p className="secondary">
-                          <i className="fa-solid fa-clock" /> Left to invest
+                          <i className="fa-solid fa-clock" /> Temps restant
                         </p>
                         <div className="countdown">
                           <h5>
@@ -276,7 +275,7 @@ const Featured = () => {
                           to="property-details"
                           className="button button--effect"
                         >
-                          Invest Now
+                          Investir
                         </Link>
                       </div>
                     </div>
