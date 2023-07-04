@@ -7,7 +7,7 @@ const Head = () => {
       <nav className="navbar navbar-expand-xl">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            <img src="assets/images/logo.png" alt="Logo" className="logo" />
+          <img src="assets/images/logo.png" alt="Logo" className="logo" style={{ width: '70px', height: '70px' }}/>
           </Link>
           <div className="navbar__out order-2 order-xl-3">
             <div className="nav__group__btn">
@@ -47,12 +47,12 @@ const Head = () => {
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/properties">
-                  Properties
+                  Propriété
                 </Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/sell">
-                  List your property
+                Inscrivez votre bien
                 </Link>
               </li>
 
@@ -63,7 +63,7 @@ const Head = () => {
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/faq">
-                  Faq
+                  FaQ
                 </Link>
               </li>
               <li className="nav-item d-block d-sm-none">
@@ -76,7 +76,7 @@ const Head = () => {
                   to="/registration"
                   className="button button--effect button--last"
                 >
-                  Join Now <i className="fa-solid fa-arrow-right-long"></i>
+                  Rejoignez-nous <i className="fa-solid fa-arrow-right-long"></i>
                 </Link>
               </li>
             </ul>
