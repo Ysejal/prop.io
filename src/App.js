@@ -5,6 +5,7 @@ import Error from "./pages/error/404";
 import Home from "./pages/home/Home";
 import Sell from "./pages/list/Sell";
 import Properties from "./pages/property/Properties";
+import Leafletmap from "./components/map/Leafletmap";
 
 // import { Error, Home, Plan, Auth } from "./pages";
 
@@ -16,6 +17,7 @@ function App() {
           <Route path="/">
             <Route index element={<Home />} />
             <Route path="properties" element={<Properties />} />
+            <Route path="map" element={<Leafletmap />} />
             <Route path="sell" element={<Sell />} />
             <Route path="login" element={<Login />} />
             <Route path="registration" element={<Registration />} />
