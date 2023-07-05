@@ -164,7 +164,7 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-button,
 body::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 5px;
 }
 
@@ -1271,7 +1271,7 @@ button:hover {
 }
 
 .social a:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .pos__rel {
@@ -1369,7 +1369,7 @@ button:hover {
   content: "";
   width: 50%;
   height: 100%;
-  background-color: #5927e340;
+  background-color: #FFC30040;
   -webkit-transform: skewX(-25deg);
   transform: skewX(-25deg);
 }
@@ -1462,7 +1462,7 @@ button:hover {
 }
 
 .breadcrumb .breadcrumb-item a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .breadcrumb .breadcrumb-item::before {
@@ -1553,7 +1553,7 @@ button:hover {
 
 .pagination .page-link:hover {
   color: #ffffff;
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .pagination .page-item:last-of-type .page-link {
@@ -1586,7 +1586,7 @@ button:hover {
 }
 
 .pagination .page-item:last-of-type .page-link:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -1619,7 +1619,7 @@ button:hover {
 }
 
 .pagination .page-item:first-of-type .page-link:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -1637,7 +1637,7 @@ button:hover {
  ==== */
 .button {
   padding: 14px 30px 16px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 10px;
   -webkit-box-shadow: 0px 4px 24px 0px rgba(89, 39, 227, 0.25);
   box-shadow: 0px 4px 24px 0px rgba(89, 39, 227, 0.25);
@@ -1704,7 +1704,7 @@ button:hover {
 }
 
 .button--secondary:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -1732,7 +1732,7 @@ button:hover {
   right: 24px;
   width: 45px;
   height: 45px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 5px;
   color: #ffffff;
   line-height: 45px;
@@ -1772,7 +1772,7 @@ button:hover {
 }
 
 .scrollToTop:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   -webkit-box-shadow: 0px 10px 24px 0px rgba(89, 39, 227, 0.8);
   box-shadow: 0px 10px 24px 0px rgba(89, 39, 227, 0.8);
 }
@@ -2128,7 +2128,7 @@ button:hover {
 .input__alt .input-group .nice-select .list {
   position: absolute;
   top: 100%;
-  background-color: #5927e3;
+  background-color: #FFC300;
   -webkit-box-shadow: 0px 4px 24px 0px #13216e;
   box-shadow: 0px 4px 24px 0px #13216e;
   max-height: 300px;
@@ -2160,7 +2160,7 @@ button:hover {
 }
 
 .input__alt .input-group .nice-select .option {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
   min-height: auto;
   line-height: 28px;
@@ -2230,7 +2230,7 @@ button:hover {
 
 .input__file span {
   font-weight: 700;
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .input__file .icon__box {
@@ -2413,7 +2413,7 @@ header {
   }
 
   .navbar-collapse::-webkit-scrollbar-thumb {
-    background-color: #5927e3;
+    background-color: #FFC300;
     border-radius: 10px;
   }
 }
@@ -2574,7 +2574,7 @@ header {
   padding: 0px;
   background-color: #ffffff;
   margin-top: 0px;
-  border-top: 4px solid #5927e3;
+  border-top: 4px solid #FFC300;
   -webkit-box-shadow: 0px 4px 24px 0px rgba(19, 33, 110, 0.25);
   box-shadow: 0px 4px 24px 0px rgba(19, 33, 110, 0.25);
   border-radius: 0px;
@@ -2603,7 +2603,7 @@ header {
 }
 
 .dropdown .dropdown-menu::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 10px;
 }
 
@@ -2633,7 +2633,7 @@ header {
 }
 
 .dropdown .dropdown-menu .dropdown-item:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
   padding-left: 20px;
 }
@@ -2682,7 +2682,7 @@ header {
 .navbar-toggler .icon-bar {
   width: 35px;
   height: 2px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   margin: 0px;
   display: block;
   -webkit-transition: all 0.3s;
@@ -2703,7 +2703,7 @@ header {
 .toggle-active .top-bar {
   -webkit-transform: rotate(-45deg) translate(-7px, 4px);
   transform: rotate(-45deg) translate(-7px, 4px);
-  background: #5927e3;
+  background: #FFC300;
 }
 
 .toggle-active .middle-bar {
@@ -2713,7 +2713,7 @@ header {
 .toggle-active .bottom-bar {
   -webkit-transform: rotate(45deg) translate(-7px, -4px);
   transform: rotate(45deg) translate(-7px, -4px);
-  background: #5927e3;
+  background: #FFC300;
 }
 
 .dashboard-header {
@@ -2910,7 +2910,7 @@ header {
 .dashboard-header .notification-area .notification__wrapper .notification__single-wrapper {
   height: 220px;
   overflow-y: auto;
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 @media only screen and (max-width: 767px) {
@@ -3099,7 +3099,7 @@ header {
 }
 
 .dashboard-header .nice-select .list::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 10px;
 }
 
@@ -3322,11 +3322,11 @@ header {
 }
 
 .hero--three .hero__content .button::before {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .hero--three .hero__content .button::after {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .hero--three .hero__content .button:hover {
@@ -3527,11 +3527,11 @@ header {
 }
 
 .support__banner .faq__tab .faq__tab__btn:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .support__banner .faq__tab .faq__tab__btn__active {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .contact__banner {
@@ -3916,7 +3916,7 @@ header {
 .property__filter__area .property__select__wrapper .nice-select .list {
   position: absolute;
   top: 100%;
-  background-color: #5927e3;
+  background-color: #FFC300;
   -webkit-box-shadow: 0px 4px 24px 0px #13216e;
   box-shadow: 0px 4px 24px 0px #13216e;
   width: 70%;
@@ -3961,7 +3961,7 @@ header {
 }
 
 .property__filter__area .property__select__wrapper .nice-select .option {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
   min-height: auto;
   line-height: 28px;
@@ -4420,8 +4420,8 @@ header {
 }
 
 .properties__grid--two {
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(65%, #5927e3), color-stop(35%, #ffffff));
-  background-image: linear-gradient(to bottom, #5927e3 65%, #ffffff 35%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(65%, #FFC300), color-stop(35%, #ffffff));
+  background-image: linear-gradient(to bottom, #FFC300 65%, #ffffff 35%);
 }
 
 .properties__grid--two .title__with__cta h2 {
@@ -4429,15 +4429,15 @@ header {
 }
 
 .properties__grid--two .title__with__cta .button::before {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .properties__grid--two .title__with__cta .button::after {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .properties__grid--two .title__with__cta .button:hover {
-  color: #13216e;
+  color: #FFC300;
   background-color: #ffffff;
 }
 
@@ -4947,7 +4947,7 @@ header {
   width: 60px;
   height: 60px;
   line-height: 60px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   text-align: center;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5384,7 +5384,7 @@ header {
 }
 
 .market--two {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .market__two .content h5 {
@@ -5716,7 +5716,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   background-color: #c6c6e6;
-  border: 1px solid #5927e3;
+  border: 1px solid #FFC300;
   border-radius: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5898,7 +5898,7 @@ header {
 }
 
 .cities__area .title__with__cta .button:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -6005,7 +6005,7 @@ header {
 }
 
 .cities__single__item .button:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -7179,7 +7179,7 @@ header {
 }
 
 .open__job__inner h5 a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .open__job__inner ul {
@@ -7521,7 +7521,7 @@ header {
 }
 
 .properties__filter__wrapper h6 span {
-  color: #5927e3;
+  color: #FFC300;
   font-weight: 700;
   line-height: inherit;
 }
@@ -7620,7 +7620,7 @@ header {
 .properties__filter__wrapper .grid__wrapper .nice-select .list {
   position: absolute;
   top: 100%;
-  background-color: #5927e3;
+  background-color: #FFC300;
   -webkit-box-shadow: 0px 4px 24px 0px #13216e;
   box-shadow: 0px 4px 24px 0px #13216e;
   width: 70%;
@@ -7665,7 +7665,7 @@ header {
 }
 
 .properties__filter__wrapper .grid__wrapper .nice-select .option {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
   min-height: auto;
   line-height: 28px;
@@ -7744,7 +7744,7 @@ header {
 }
 
 .properties__filter__wrapper .grid__wrapper .grid__btn__active {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .properties__filter__wrapper .grid__wrapper .grid__btn__active i {
@@ -8040,7 +8040,7 @@ header {
 .investment__wrapper .investment__wrapper__inner .radio__group input:checked+label::after {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .investment__wrapper .investment__footer {
@@ -8366,7 +8366,7 @@ header {
 }
 
 .numbers__two p a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .numbers__two .numbers__single h5 {
@@ -8539,7 +8539,7 @@ header {
 }
 
 .contact__overview__single p a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .contact__overview__single hr {
@@ -9003,7 +9003,7 @@ header {
 }
 
 .featured__large__post .blog__content a {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .featured__large__post .blog__content a:hover {
@@ -9107,7 +9107,7 @@ header {
 }
 
 .featured__post-single-content a {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .featured__post-single-content a:hover {
@@ -9399,7 +9399,7 @@ header {
 }
 
 .blog__popular__single .blog__popular__single-content h6 a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .blog__popular__single .blog__popular__single-content a {
@@ -9427,7 +9427,7 @@ header {
 }
 
 .blog__popular__single .categories a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .latest__blog__shuffle__list {
@@ -9747,7 +9747,7 @@ header {
 }
 
 .blog__social .social a:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .blog__social .social a:hover i {
@@ -9755,7 +9755,7 @@ header {
 }
 
 .blog__social .social a i {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .blog__post__author {
@@ -9853,7 +9853,7 @@ header {
 }
 
 .blog__post__author .social a:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .blog__post__author .social a:hover i {
@@ -9861,7 +9861,7 @@ header {
 }
 
 .blog__post__author .social a i {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .latest__post__features {
@@ -10034,7 +10034,7 @@ header {
 }
 
 .alt__loan .grid__btnn__active {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .alt__loan .grid__btnn__active i {
@@ -10080,7 +10080,7 @@ header {
 .alt__loan__grid__single .img__effect a {
   display: block;
   width: 100%;
-  border: 1px solid #5927e380;
+  border: 1px solid #FFC30080;
   border-radius: 5px;
 }
 
@@ -10100,7 +10100,7 @@ header {
 
 .alt__loan__grid__single .img__effect .ribbon {
   padding: 10px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   position: absolute;
   top: 20px;
   left: -136px;
@@ -10181,7 +10181,7 @@ header {
 }
 
 .alt__loan__content .item__head__left h5 a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .alt__loan__content .progress__type {
@@ -10600,7 +10600,7 @@ header {
 }
 
 .p__details__content .intro h3 span {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .p__details__content .group__one {
@@ -10905,7 +10905,7 @@ header {
 
 .p__details__sidebar .intro {
   padding: 27px 40px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 20px 20px 0px 0px;
   position: relative;
   overflow: hidden;
@@ -11072,7 +11072,7 @@ header {
 }
 
 .p__details__sidebar .group .acus__btn:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -11255,7 +11255,7 @@ header {
 }
 
 .p__details__sidebar .group p a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .p__details__sidebar .brin {
@@ -11278,7 +11278,7 @@ header {
 }
 
 .p__details__sidebar .brini a {
-  color: #5927e3;
+  color: #FFC300;
   margin-top: 28px;
 }
 
@@ -11313,7 +11313,7 @@ header {
 }
 
 .p__details__sidebar .birinit a:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
 }
 
 .p__details__sidebar .birinit a:hover i {
@@ -11321,7 +11321,7 @@ header {
 }
 
 .p__details__sidebar .birinit a i {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .p__details__sidebar .alt__brin h5 {
@@ -11393,11 +11393,11 @@ header {
 }
 
 .p__details__sidebar .alt__brin .singl__wrapper .singl a {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .p__details__sidebar .alt__brin .singl__wrapper .singl a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .p__details__sidebar .alt__brin .singl__wrapper .singl:last-of-type {
@@ -11885,7 +11885,7 @@ header {
 .regi__type .nice-select .list {
   position: absolute;
   top: 100%;
-  background-color: #5927e3;
+  background-color: #FFC300;
   -webkit-box-shadow: 0px 4px 24px 0px #13216e;
   box-shadow: 0px 4px 24px 0px #13216e;
   width: 70%;
@@ -11930,7 +11930,7 @@ header {
 }
 
 .regi__type .nice-select .option {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
   min-height: auto;
   line-height: 28px;
@@ -12179,7 +12179,7 @@ header {
 
   .sidebar::-webkit-scrollbar-button,
   .sidebar::-webkit-scrollbar-thumb {
-    background-color: #5927e3;
+    background-color: #FFC300;
     border-radius: 5px;
   }
 }
@@ -12538,7 +12538,7 @@ header {
 }
 
 .dashboard-single__box .property-wrap h4 a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .dashboard-single__box .property-wrap p {
@@ -12620,7 +12620,7 @@ header {
 
 .balance-report__wrapper {
   padding: 40px 30px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 10px;
 }
 
@@ -12747,7 +12747,7 @@ header {
 
 .balance-report .nice-select .list::-webkit-scrollbar-button,
 .balance-report .nice-select .list::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 5px;
 }
 
@@ -13190,7 +13190,7 @@ header {
 }
 
 .breadcrumb-dashboard a:hover {
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .breadcrumb-dashboard a:nth-last-of-type(1):hover {
@@ -13232,7 +13232,7 @@ header {
 }
 
 .investment-table .intro h6 span {
-  color: #5927e3;
+  color: #FFC300;
   font-weight: 600;
 }
 
@@ -13252,7 +13252,7 @@ header {
 
 .investment-table .table-wrapper::-webkit-scrollbar-button,
 .investment-table .table-wrapper::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 5px;
 }
 
@@ -13358,7 +13358,7 @@ header {
 
 .investment-table-two .table-wrapper::-webkit-scrollbar-button,
 .investment-table-two .table-wrapper::-webkit-scrollbar-thumb {
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 5px;
 }
 
@@ -13380,7 +13380,7 @@ header {
 
 .investment-sidebar .statistics {
   padding: 30px;
-  background-color: #5927e3;
+  background-color: #FFC300;
   border-radius: 10px;
 }
 
@@ -13631,12 +13631,12 @@ header {
 }
 
 .account-info .account-info__btn:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
 .account-info .account-info__btn-active {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -13813,7 +13813,7 @@ header {
 
 .account-content .account-content-single .intro a {
   font-weight: 400;
-  color: #5927e3;
+  color: #FFC300;
 }
 
 .account-content .account-content-single .account-content-single__inner {
@@ -13906,7 +13906,7 @@ header {
 }
 
 .account-content .account-content-single .switch-wrapper input:checked+label {
-  background: #5927e3;
+  background: #FFC300;
 }
 
 .account-content .account-content-single .switch-wrapper input:checked+label:after {
@@ -14036,7 +14036,7 @@ header {
 }
 
 .account-content .two-factor-wrapper .button:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -14057,7 +14057,7 @@ header {
 }
 
 .account-content .change__pass .change__pass-content .button:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 
@@ -14100,7 +14100,7 @@ header {
 }
 
 .account-content .account-content-single__alt .alt:hover {
-  background-color: #5927e3;
+  background-color: #FFC300;
   color: #ffffff;
 }
 

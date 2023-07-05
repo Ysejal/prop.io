@@ -17,15 +17,15 @@ const Market = () => {
             <div className="col-lg-6 col-xl-6 offset-xl-1">
               <div className="content">
                 <h5 className="neutral-top">
-                  Real exposure to the real estate market
+                Exposition réelle au marché de l'immobilier
                 </h5>
-                <h2>You Invest. Propio Does the Rest</h2>
+                <h2>Vous investissez. Prop.io fait le reste</h2>
                 <p>
-                  Transparent Real Estate Investing Through Propio. Join us and
-                  experience a smarter, better way to invest in real estate
+                L'investissement immobilier transparent grâce à Propio. Rejoignez-nous et
+                  découvrer une façon plus intelligente et meilleure d'investir dans l'immobilier
                 </p>
                 <a href="properties.html" className="button button--effect">
-                  Start Exploring
+                Commencer à explorer
                 </a>
                 <img src="assets/images/arrow.png" alt="Go to" />
               </div>

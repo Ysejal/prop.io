@@ -6,12 +6,12 @@ const GetStarted = () => {
       <div className="container">
         <div className="start__area wow fadeInUp">
           <div className="section__header">
-            <h5 className="neutral-top">We're changing the way you invest.</h5>
-            <h2>It's Easy to Get Started.</h2>
+            <h5 className="neutral-top">Nous changeons votre façon d'investir.</h5>
+            <h2>Il est facile de commencer.</h2>
             <p className="neutral-bottom">
-              Signing up with Propio is simple and only takes a few minutes. We
-              can automatically connect with all local banks, so no complicated
-              paperwork is required to fund your account.
+            L'inscription à Propio est simple et ne prend que quelques minutes. 
+              Automatiquement, nous vous connectons avec les banques locales et nous nous occupons de de votre dossier.
+              
             </p>
           </div>
           <div className="row">
@@ -26,10 +26,9 @@ const GetStarted = () => {
                     <h4>01</h4>
                   </div>
                 </div>
-                <h4>Browse Properties</h4>
+                <h4>Parcourir les propriétés</h4>
                 <p className="neutral-bottom">
-                  Select a property that fits your goal from our huge variety of
-                  hand-picked properties.
+                Sélectionnez une propriété qui correspond à votre objectif parmi notre vaste gamme de propriétés triées sur le volet.
                 </p>
               </div>
             </div>
@@ -44,10 +43,9 @@ const GetStarted = () => {
                     <h4>02</h4>
                   </div>
                 </div>
-                <h4>View Details &amp; Invest</h4>
+                <h4>Voir les détails et investir</h4>
                 <p className="neutral-bottom">
-                  View detailed metrics for that property like Rental Yield,
-                  etc. and invest like institutions.
+                Affichez des mesures détaillées pour ce bien, comme le rendement locatif, etc,  et investissez comme des institutions.
                 </p>
               </div>
             </div>
@@ -59,10 +57,9 @@ const GetStarted = () => {
                     <h4>03</h4>
                   </div>
                 </div>
-                <h4>Earn and Track</h4>
+                <h4>Gagnez et suivez</h4>
                 <p className="neutral-bottom">
-                  You have full visibility into the performance of your
-                  investment. Track your total current.
+                Vous avez une visibilité totale sur la performance de votre investissement. Suivez l'évolution de votre capital total.
                 </p>
               </div>
             </div>

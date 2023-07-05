@@ -10,19 +10,19 @@ const Hero = () => {
             <div className="col-lg-7">
               <div className="hero__content">
                 <h5 className="neutral-top">
-                  Smart &amp; Secure Real Estate Investment Platform
+                Plateforme d'investissement immobilier intelligente et sécurisée
                 </h5>
-                <h1>Invest in the future of real estate</h1>
+                <h1>Investir dans l'avenir de l'immobilier</h1>
                 <p className="primary neutral-bottom">
-                  Start earning daily rental income and capital growth with our
-                  property-backed investments
+                Commencez à percevoir des revenus locatifs quotidiens et à bénéficier d'une croissance du capital grâce à nos investissements garantis par des biens immobiliers.
+                 
                 </p>
                 <div className="hero__cta__group">
                   <Link
                     href="business-loan.html"
                     className="button button--secondary button--effect"
                   >
-                    Get Started
+                    Commencer
                   </Link>
                 </div>
               </div>
