@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mon-deploiement
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: Proprio
+  template:
+    metadata:
+      labels:
+        app: Proprio
+    spec:
+      containers:
+        - name: mon-conteneur
+          image: proprio.azurecr.io/proprio:latest
+          ports:
+            - containerPort: 8080
