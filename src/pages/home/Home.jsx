@@ -13,7 +13,6 @@ const Home = () => {
       <header>
         <Head />
       </header>
-
       <Hero />
       <WhyInvest />
       <Featured />

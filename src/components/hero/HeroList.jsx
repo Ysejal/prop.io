@@ -9,21 +9,20 @@ const HeroList = () => {
             <div className="col-lg-8">
               <div className="hero__content">
                 <h5 className="neutral-top">
-                  List Your Property and sell instantly
+                Inscrivez votre bien et vendez-le instantanément
                 </h5>
-                <h1>Sell your property, Online &amp; hassle-free</h1>
+                <h1>Vendez votre bien, en ligne et sans souci</h1>
                 <p className="primary neutral-bottom">
-                  Receiving rent from a commercial property and now want to sell
-                  it instantly? List your property and convert the lakhs of
-                  annual rent you are receiving into Crores by selling to 5000+
-                  real estate investors on Revest.
+                Vous percevez un loyer pour une propriété commerciale et souhaitez la vendre immédiatement ?
+                Inscrivez votre propriété et convertissez les rentes de loyers annuels que vous recevez en milliards d'euros en vendant à plus de 5000 acheteurs.
+                  de loyer annuel que vous percevez en Crores en le vendant à plus de 5000
                 </p>
                 <div className="hero__cta__group">
                   <a
                     href="registration.html"
                     className="button button--secondary button--effect"
                   >
-                    List Your Property
+                    inscrivez votre bien
                   </a>
                 </div>
               </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 
 
@@ -12,8 +12,8 @@ const LeafletMap = () => {
             <div className="col-lg-5">
               <div className="map-container">
                 <MapContainer
-                  center={[51.505, -0.09]}
-                  zoom={13}
+                  center={[48.866667, 2.333333]}
+                  zoom={10}
                   scrollWheelZoom={false}
                   style={{ height: "400px", width: "100%" }}
                 >

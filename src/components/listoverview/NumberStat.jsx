@@ -8,17 +8,17 @@ const NumberStat = () => {
           <div className="row d-flex align-items-center">
             <div className="col-lg-6">
               <div className="content column__space">
-                <h5 className="neutral-top">Your success is our success.</h5>
-                <h2>Why sell through Revest?</h2>
+                <h5 className="neutral-top">Votre succès est notre succès.</h5>
+                <h2>Pourquoi vendre par l'intermédiaire de Propr.io</h2>
                 <p>
-                  Revest enables real estate owners to sell their properties
-                  through its platform. Submit your property quickly and easily!
+                Propr.io permet aux propriétaires immobiliers de vendre leurs biens
+                  par le biais de sa plateforme. Soumettez votre bien rapidement et facilement !
                 </p>
                 <p>
-                  <a href="contact-us.html">Let us know about your property</a>
+                  <a href="contact-us.html">Faites-nous part de votre bien immobilier</a>
                 </p>
                 <a href="login.html" className="button button--effect">
-                  Submit Your Property
+                Soumettre votre bien
                 </a>
               </div>
             </div>
@@ -30,18 +30,18 @@ const NumberStat = () => {
                       src="assets/images/icons/attractive.png"
                       alt="Attractive"
                     />
-                    <h5>Attractive conditions</h5>
+                    <h5>Conditions attractives</h5>
                     <p className="neutral-bottom">
-                      With us you sell your property without paying a brokerage
-                      commission.
+                    Avec nous, vous vendez votre bien immobilier sans payer de commission
+                      de courtage
                     </p>
                   </div>
                   <div className="numbers__single shadow__effect">
                     <img src="assets/images/icons/fast.png" alt="Fast" />
-                    <h5>Fast processing</h5>
+                    <h5>Processus rapide</h5>
                     <p className="neutral-bottom">
-                      Receive an initial offer and a property assessment within
-                      48 hours.
+                    Recevez une offre initiale et une évaluation du bien dans les
+                      48 heures.
                     </p>
                   </div>
                 </div>
@@ -51,10 +51,10 @@ const NumberStat = () => {
                       src="assets/images/icons/innovation.png"
                       alt="Innovation"
                     />
-                    <h5>Innovation</h5>
+                    <h5>L'innovation</h5>
                     <p className="neutral-bottom">
-                      Sell your property online through an innovative business
-                      model.
+                    Vendez votre bien en ligne grâce à un modèle commercial
+                    innovant.
                     </p>
                   </div>
                 </div>

@@ -67,7 +67,7 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Rapport annuel</p>
+                        <p>Rendement</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
@@ -152,7 +152,7 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Rapport annuel</p>
+                        <p>Rendement</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
@@ -239,7 +239,7 @@ const Featured = () => {
                     </div>
                     <div className="item__info">
                       <div className="item__info__single">
-                        <p>Rapport annuel</p>
+                        <p>Rendement</p>
                         <h6>7.5% + 2%</h6>
                       </div>
                       <div className="item__info__single">
