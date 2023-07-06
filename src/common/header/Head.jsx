@@ -55,6 +55,11 @@ const Head = () => {
                 Inscrivez votre bien
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/map">
+                Carte
+                </Link>
+              </li>
 
               <li className="nav-item">
                 <Link className="nav-link" to="/contact-us">
