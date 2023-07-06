@@ -17,4 +17,3 @@ spec:
           image: proprio.azurecr.io/proprio:latest
           ports:
             - containerPort: 8080
-              targetPort: 3000
