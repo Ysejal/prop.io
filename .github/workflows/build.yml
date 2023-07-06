@@ -38,7 +38,7 @@ jobs:
       with:
         creds: '${{ secrets.AZURE_CREDENTIALS }}'
         cluster-name: ${{ env.CLUSTER_NAME }}
-        resource-group: ${{ env.CLUSTER_RESOURCE_GROUP }}
+        resource-group: ${{ secrets.CLUSTER_RESOURCE_GROUP }}
     
     # Create namespace if doesn't exist
     - run: |
