@@ -14,7 +14,7 @@ RUN git clone https://github.com/Ysejal/prop.io.git .
 RUN npm install
 
 # Exposez le port sur lequel votre application écoute
-EXPOSE 8080
+EXPOSE 3000
 
 # Démarrez l'application
 CMD [ "npm", "start" ]
